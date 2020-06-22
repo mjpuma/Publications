@@ -1,6 +1,10 @@
 Citation List
 
+
+Heslin, A., M.J. Puma, P. Marchand, J.A. Carr, J. Dell'Angelo, P. D'Odorico, J.A. Gephart, M. Kummu, M. Porkka, M.C. Rulli, D. Seekell, S. Suweis, and A. Tavoni, 2020: Simulating the cascading effects of an extreme agricultural production shock: Global implications of a contemporary US Dust Bowl event. Front. Sustain. Food Syst., 4, 26, doi:10.3389/fsufs.2020.00026.
+
+Jägermeyr, J., A. Robock, J. Elliott, C. Müller, L. Xia, N. Khabarov, C. Folberth, E. Schmid, W. Liu, F. Zabel, S.S. Rabin, M.J. Puma, A.C. Heslin, J. Franke, I. Foster, S. Asseng, C.G. Bardeen, O.B. Toon, and C. Rosenzweig, 2020: A regional nuclear conflict would compromise global food security. Proc. Natl. Acad. Sci., 117, no. 13, 7071-7081, doi:10.1073/pnas.1919049117.
+
 Lehmann J., Kretschmer M., Schauberger B., Wechsung F.: Potential for early forecast of Moroccan 
 wheat yields based on climatic drivers. Geophysical Research Letters (2020) Available at: 
 hxxxps://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087516
-
